@@ -1,4 +1,4 @@
-print("Welcome to our computer quiz!")
+print("Welcome to Marcia, Shannon & Paddy's IS quiz!")
 
 playing = input("Do you want to play?")
 
