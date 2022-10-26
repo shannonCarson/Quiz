@@ -8,15 +8,15 @@ if playing.lower() != "yes":
 print("Okay! Let's play :)")
 score = 0
 
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input("What does IS stand for? ")
+if answer.lower() == "Information Systems":
     print('Correct!')
     score += 1
 else:
     print("Incorrect!")
 
-answer = input("What does GPU stand for? ")
-if answer.lower() == "graphics processing unit":
+answer = input("What does BI stand for? ")
+if answer.lower() == "Business Intelligence":
     print('Correct!')
     score += 1
 else:
