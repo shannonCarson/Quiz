@@ -9,14 +9,14 @@ print("Okay! Let's play :)")
 score = 0
 
 answer = input("What does IS stand for? ")
-if answer.lower() == "Information Systems":
+if answer.lower() == "information systems":
     print('Correct!')
     score += 1
 else:
     print("Incorrect!")
 
 answer = input("What does BI stand for? ")
-if answer.lower() == "Business Intelligence":
+if answer.lower() == "business intelligence":
     print('Correct!')
     score += 1
 else:
