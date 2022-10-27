@@ -4,3 +4,5 @@
 3. If the answer is correct, 'Correct!' will appear on the screen 
 4. If the asnwer is incorrect, 'Incorrect!' will appear on the screen
 5. After all questions are answered, you will receive your final score and an overall percentage
+
+Resources: https://www.youtube.com/watch?v=DLn3jOsNRVE
